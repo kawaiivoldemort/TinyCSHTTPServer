@@ -1,0 +1,98 @@
+#profile-picture
+{
+        display:block;
+        padding-right:40%;
+        padding-bottom:1%;
+        padding-top:3%;
+}
+
+#title
+{
+        font-weight:100;
+        font-size:300%;
+        color:#101010;
+}
+
+#subtitle
+{
+        font-weight:700;
+        color:#404040;
+}
+
+#main-header
+{
+        font-weight:100;
+        font-size:500%;
+        font-family:Helvetica;
+}
+
+.header
+{
+        font-family:Helvetica;
+        font-size:200%;
+        color:#707070;
+}
+
+.center
+{
+        padding:0% 23%;
+        font-family:Helvetica;
+        font-weight:normal;
+        font-size:150%;
+        color:#707070;
+}
+
+.footer
+{
+        font-family:Helvetica;
+        font-weight:normal;
+        font-size:150%;
+        color:#707070;
+}
+
+table, td, th
+{
+        width:auto;
+        border-collapse:collapse;
+        border:1px solid black;
+        margin-left:23%;
+        margin-right:23%;
+        font-size:100%;
+        color:#101010;
+        padding:30px 10px;
+        text-align:center;
+        color:white;
+}
+
+tr:nth-child(odd) {
+    background: #101010;
+}
+
+tr:nth-child(even) {
+    background: #404040;
+}
+
+tr:first-child
+{
+    font-style:italic;
+}
+
+a:link
+{
+    color: #000000;
+}
+
+a:visited
+{
+    color: #909090 ;
+}
+
+a:hover
+{
+    color: #780000;
+}
+
+a:active
+{
+    color: #FF0000;
+}
